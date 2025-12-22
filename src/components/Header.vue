@@ -5,11 +5,11 @@
 <template>
   <header>
     <div class="header-content">
-      <img src="/img/logo.webp" alt="Test logo" :width="120" :height="32">
+      <img src="/img/logo.webp" alt="Test logo" :width="120" :height="32" />
 
       <div class="user">
         <p>Ronnie Radke</p>
-        <img src="/img/avatar.jpg" alt="Test logo" loading="lazy" :width="44" :height="44">
+        <img src="/img/avatar.jpg" alt="Test logo" loading="lazy" :width="44" :height="44" />
       </div>
     </div>
   </header>

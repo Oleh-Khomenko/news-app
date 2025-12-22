@@ -1,0 +1,1243 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Electric vehicle sales slow amid charging infrastructure concerns",
+      "author": "Eddie Munson",
+      "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800&h=400&fit=crop",
+      "description": "Consumers are delaying electric vehicle purchases as charging availability and rising costs continue to raise concerns, despite strong long-term market forecasts.",
+      "category": "Technology",
+      "createdAt": 1734048000000,
+      "content": [
+        { "type": "paragraph", "text": "Consumers are delaying electric vehicle purchases as charging availability and rising costs continue to raise concerns, despite strong long-term market forecasts." },
+        { "type": "paragraph", "text": "Electric vehicle (EV) sales have shown signs of slowing in several key markets, highlighting growing consumer hesitation around charging infrastructure and overall ownership costs." },
+        { "type": "quote", "text": "Range anxiety is no longer the only issue — convenience and cost predictability are becoming equally important for consumers, said an industry analyst." },
+        { "type": "paragraph", "text": "Cost concerns are also playing a major role. Although battery prices have gradually decreased, electric vehicles often still carry higher upfront costs compared to traditional combustion engine cars." }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "AI-powered tools reshape software development workflows",
+      "author": "Sarah Johnson",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=400&fit=crop",
+      "description": "Development teams are increasingly adopting AI-assisted coding tools that promise to boost productivity and reduce repetitive tasks.",
+      "category": "Technology",
+      "createdAt": 1733961600000,
+      "content": [
+        { "type": "paragraph", "text": "Development teams are increasingly adopting AI-assisted coding tools that promise to boost productivity and reduce repetitive tasks." },
+        { "type": "quote", "text": "AI tools are not replacing developers, but they are fundamentally changing what we spend our time on, noted a senior engineer." }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Remote work trends continue to evolve in 2025",
+      "author": "Michael Chen",
+      "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=800&h=400&fit=crop",
+      "description": "Companies are finding new balance between remote flexibility and in-office collaboration as workplace strategies mature.",
+      "category": "Business",
+      "createdAt": 1733875200000,
+      "content": [
+        { "type": "paragraph", "text": "Companies are finding new balance between remote flexibility and in-office collaboration as workplace strategies mature." }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Renewable energy investment hits record levels globally",
+      "author": "Emily Rodriguez",
+      "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&h=400&fit=crop",
+      "description": "Solar and wind power projects attract unprecedented funding as countries accelerate transition away from fossil fuels.",
+      "category": "Energy",
+      "createdAt": 1733788800000,
+      "content": [
+        { "type": "paragraph", "text": "Solar and wind power projects attract unprecedented funding as countries accelerate transition away from fossil fuels." },
+        { "type": "quote", "text": "The economics of renewable energy have fundamentally shifted. Clean power is now often the cheapest option available." }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Cybersecurity threats grow more sophisticated",
+      "author": "David Kim",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&h=400&fit=crop",
+      "description": "Organizations face increasingly complex attacks as hackers leverage AI and automation to target vulnerabilities.",
+      "category": "Security",
+      "createdAt": 1733702400000,
+      "content": [
+        { "type": "paragraph", "text": "Organizations face increasingly complex attacks as hackers leverage AI and automation to target vulnerabilities." }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Quantum computing breakthrough announced by research team",
+      "author": "Lisa Wang",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=400&fit=crop",
+      "description": "Scientists demonstrate new quantum processor design that could bring practical applications closer to reality.",
+      "category": "Science",
+      "createdAt": 1733616000000,
+      "content": [
+        { "type": "paragraph", "text": "Scientists demonstrate new quantum processor design that could bring practical applications closer to reality." },
+        { "type": "quote", "text": "This represents a significant step forward in making quantum computing viable for real-world problems." }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Healthcare systems adopt telemedicine as standard practice",
+      "author": "Dr. Amanda Foster",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=400&fit=crop",
+      "description": "Virtual healthcare visits become mainstream option for patients seeking convenient access to medical care.",
+      "category": "Healthcare",
+      "createdAt": 1733529600000,
+      "content": [
+        { "type": "paragraph", "text": "Virtual healthcare visits become mainstream option for patients seeking convenient access to medical care." }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Sustainable fashion brands gain market share",
+      "author": "Jessica Martinez",
+      "image": "https://images.unsplash.com/photo-1558769132-cb1aea3c0277?w=800&h=400&fit=crop",
+      "description": "Eco-conscious consumers drive growth in apparel companies focused on environmental and ethical production.",
+      "category": "Fashion",
+      "createdAt": 1733443200000,
+      "content": [
+        { "type": "paragraph", "text": "Eco-conscious consumers drive growth in apparel companies focused on environmental and ethical production." },
+        { "type": "quote", "text": "Younger shoppers especially are voting with their wallets for brands that align with their values." }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Space tourism industry prepares for expansion",
+      "author": "Robert Taylor",
+      "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=800&h=400&fit=crop",
+      "description": "Private companies plan new orbital facilities and suborbital flights as commercial space travel develops.",
+      "category": "Space",
+      "createdAt": 1733356800000,
+      "content": [
+        { "type": "paragraph", "text": "Private companies plan new orbital facilities and suborbital flights as commercial space travel develops." }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Urban farming initiatives transform city landscapes",
+      "author": "Nina Patel",
+      "image": "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?w=800&h=400&fit=crop",
+      "description": "Vertical gardens and rooftop farms bring fresh produce production closer to urban consumers.",
+      "category": "Agriculture",
+      "createdAt": 1733270400000,
+      "content": [
+        { "type": "paragraph", "text": "Vertical gardens and rooftop farms bring fresh produce production closer to urban consumers." },
+        { "type": "quote", "text": "Urban farming reduces transportation costs and emissions while providing fresher produce to local communities." }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Educational technology reshapes classroom learning",
+      "author": "Tom Anderson",
+      "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=400&fit=crop",
+      "description": "Schools integrate digital tools and personalized learning platforms to enhance student engagement.",
+      "category": "Education",
+      "createdAt": 1733184000000,
+      "content": [
+        { "type": "paragraph", "text": "Schools integrate digital tools and personalized learning platforms to enhance student engagement." }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Cryptocurrency regulations tighten across major economies",
+      "author": "Alex Turner",
+      "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=800&h=400&fit=crop",
+      "description": "Governments implement new frameworks for digital asset oversight amid market volatility concerns.",
+      "category": "Finance",
+      "createdAt": 1733097600000,
+      "content": [
+        { "type": "paragraph", "text": "Governments implement new frameworks for digital asset oversight amid market volatility concerns." },
+        { "type": "quote", "text": "The goal is to protect consumers while allowing innovation to continue, stated a financial regulator." }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "5G network expansion accelerates in rural areas",
+      "author": "Christopher Lee",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=400&fit=crop",
+      "description": "Telecommunications companies invest billions to extend high-speed connectivity beyond urban centers.",
+      "category": "Technology",
+      "createdAt": 1733011200000,
+      "content": [
+        { "type": "paragraph", "text": "Telecommunications companies invest billions to extend high-speed connectivity beyond urban centers." }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Mental health apps see surge in adoption rates",
+      "author": "Dr. Rachel Green",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=800&h=400&fit=crop",
+      "description": "Digital wellness platforms report growing user base as awareness of mental health support increases.",
+      "category": "Healthcare",
+      "createdAt": 1732924800000,
+      "content": [
+        { "type": "paragraph", "text": "Digital wellness platforms report growing user base as awareness of mental health support increases." }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Autonomous delivery robots deployed in major cities",
+      "author": "Marcus Wright",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=400&fit=crop",
+      "description": "Retail and logistics companies test self-driving vehicles for last-mile package delivery.",
+      "category": "Technology",
+      "createdAt": 1732838400000,
+      "content": [
+        { "type": "paragraph", "text": "Retail and logistics companies test self-driving vehicles for last-mile package delivery." },
+        { "type": "quote", "text": "Autonomous delivery represents the future of urban logistics and sustainability." }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Global supply chains adapt to regional manufacturing",
+      "author": "Jennifer Park",
+      "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&h=400&fit=crop",
+      "description": "Companies shift production strategies to reduce dependency on distant suppliers.",
+      "category": "Business",
+      "createdAt": 1732752000000,
+      "content": [
+        { "type": "paragraph", "text": "Companies shift production strategies to reduce dependency on distant suppliers." }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Biodegradable packaging becomes industry standard",
+      "author": "Oliver Bennett",
+      "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=800&h=400&fit=crop",
+      "description": "Major brands transition away from traditional plastics as environmental pressure mounts.",
+      "category": "Environment",
+      "createdAt": 1732665600000,
+      "content": [
+        { "type": "paragraph", "text": "Major brands transition away from traditional plastics as environmental pressure mounts." }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Virtual reality training programs gain corporate adoption",
+      "author": "Sophia Lewis",
+      "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=800&h=400&fit=crop",
+      "description": "Businesses use immersive simulations for employee skill development and safety training.",
+      "category": "Technology",
+      "createdAt": 1732579200000,
+      "content": [
+        { "type": "paragraph", "text": "Businesses use immersive simulations for employee skill development and safety training." },
+        { "type": "quote", "text": "VR training reduces costs while improving learning outcomes and retention rates." }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Plant-based protein market continues rapid growth",
+      "author": "Daniel Cooper",
+      "image": "https://images.unsplash.com/photo-1585238341710-f8fc74c5eb35?w=800&h=400&fit=crop",
+      "description": "Alternative meat products expand shelf space as consumer preferences shift toward sustainable options.",
+      "category": "Food",
+      "createdAt": 1732492800000,
+      "content": [
+        { "type": "paragraph", "text": "Alternative meat products expand shelf space as consumer preferences shift toward sustainable options." }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Smart home devices raise privacy concerns",
+      "author": "Emma Thompson",
+      "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=800&h=400&fit=crop",
+      "description": "Consumer advocates push for stronger data protection as connected appliances proliferate.",
+      "category": "Security",
+      "createdAt": 1732406400000,
+      "content": [
+        { "type": "paragraph", "text": "Consumer advocates push for stronger data protection as connected appliances proliferate." }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Ocean cleanup initiatives show promising results",
+      "author": "Marine Dubois",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=400&fit=crop",
+      "description": "Environmental organizations report significant plastic removal from major ocean garbage patches.",
+      "category": "Environment",
+      "createdAt": 1732320000000,
+      "content": [
+        { "type": "paragraph", "text": "Environmental organizations report significant plastic removal from major ocean garbage patches." },
+        { "type": "quote", "text": "We are making measurable progress, but sustained effort is critical for long-term success." }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Hydrogen fuel cells emerge as aviation alternative",
+      "author": "Peter Schmidt",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&h=400&fit=crop",
+      "description": "Airlines explore zero-emission propulsion systems for short and medium-haul flights.",
+      "category": "Aviation",
+      "createdAt": 1732233600000,
+      "content": [
+        { "type": "paragraph", "text": "Airlines explore zero-emission propulsion systems for short and medium-haul flights." }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Personalized medicine advances with genetic testing",
+      "author": "Dr. Sarah Mitchell",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&h=400&fit=crop",
+      "description": "Healthcare providers tailor treatments based on individual genetic profiles and biomarkers.",
+      "category": "Healthcare",
+      "createdAt": 1732147200000,
+      "content": [
+        { "type": "paragraph", "text": "Healthcare providers tailor treatments based on individual genetic profiles and biomarkers." }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Micro-mobility solutions reshape urban transportation",
+      "author": "Lucas Rivera",
+      "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&h=400&fit=crop",
+      "description": "E-scooters and bike-sharing programs reduce car dependency in metropolitan areas.",
+      "category": "Transportation",
+      "createdAt": 1732060800000,
+      "content": [
+        { "type": "paragraph", "text": "E-scooters and bike-sharing programs reduce car dependency in metropolitan areas." },
+        { "type": "quote", "text": "Micro-mobility offers a practical solution for the first and last mile of commutes." }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Blockchain technology finds application in supply tracking",
+      "author": "Kevin Zhang",
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&h=400&fit=crop",
+      "description": "Industries adopt distributed ledgers to improve transparency and reduce counterfeit goods.",
+      "category": "Technology",
+      "createdAt": 1731974400000,
+      "content": [
+        { "type": "paragraph", "text": "Industries adopt distributed ledgers to improve transparency and reduce counterfeit goods." }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Wildfire prediction systems leverage satellite data",
+      "author": "Dr. Rachel Adams",
+      "image": "https://images.unsplash.com/photo-1580245450433-bfdad20a7e7b?w=800&h=400&fit=crop",
+      "description": "Advanced monitoring tools help authorities anticipate and respond to forest fire risks.",
+      "category": "Environment",
+      "createdAt": 1731888000000,
+      "content": [
+        { "type": "paragraph", "text": "Advanced monitoring tools help authorities anticipate and respond to forest fire risks." }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Vertical takeoff aircraft enter commercial testing",
+      "author": "James Morrison",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=800&h=400&fit=crop",
+      "description": "Electric vertical takeoff and landing vehicles prepare for urban air mobility services.",
+      "category": "Aviation",
+      "createdAt": 1731801600000,
+      "content": [
+        { "type": "paragraph", "text": "Electric vertical takeoff and landing vehicles prepare for urban air mobility services." },
+        { "type": "quote", "text": "Urban air mobility could revolutionize how we think about city transportation." }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Social media platforms enhance content moderation",
+      "author": "Victoria Hayes",
+      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=400&fit=crop",
+      "description": "Tech companies deploy improved AI tools to detect harmful content and misinformation.",
+      "category": "Technology",
+      "createdAt": 1731715200000,
+      "content": [
+        { "type": "paragraph", "text": "Tech companies deploy improved AI tools to detect harmful content and misinformation." }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Gene therapy shows promise for rare diseases",
+      "author": "Dr. Andrew Collins",
+      "image": "https://images.unsplash.com/photo-1582719471137-c3967ffb1c42?w=800&h=400&fit=crop",
+      "description": "Clinical trials demonstrate effectiveness of genetic treatments for previously incurable conditions.",
+      "category": "Healthcare",
+      "createdAt": 1731628800000,
+      "content": [
+        { "type": "paragraph", "text": "Clinical trials demonstrate effectiveness of genetic treatments for previously incurable conditions." }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Smart grid technology optimizes energy distribution",
+      "author": "Elena Novak",
+      "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=400&fit=crop",
+      "description": "Utilities implement intelligent systems to balance electricity demand and reduce waste.",
+      "category": "Energy",
+      "createdAt": 1731542400000,
+      "content": [
+        { "type": "paragraph", "text": "Utilities implement intelligent systems to balance electricity demand and reduce waste." },
+        { "type": "quote", "text": "Smart grids enable better integration of renewable energy sources and improve reliability." }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Robotics automation transforms manufacturing sector",
+      "author": "Thomas Wagner",
+      "image": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=800&h=400&fit=crop",
+      "description": "Factories deploy collaborative robots to work alongside human employees safely.",
+      "category": "Technology",
+      "createdAt": 1731456000000,
+      "content": [
+        { "type": "paragraph", "text": "Factories deploy collaborative robots to work alongside human employees safely." }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Coral reef restoration projects expand globally",
+      "author": "Dr. Maria Santos",
+      "image": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=800&h=400&fit=crop",
+      "description": "Marine biologists develop innovative techniques to rehabilitate damaged ocean ecosystems.",
+      "category": "Environment",
+      "createdAt": 1731369600000,
+      "content": [
+        { "type": "paragraph", "text": "Marine biologists develop innovative techniques to rehabilitate damaged ocean ecosystems." }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Digital twins revolutionize infrastructure planning",
+      "author": "Richard Foster",
+      "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=800&h=400&fit=crop",
+      "description": "City planners use virtual replicas to simulate and optimize urban development projects.",
+      "category": "Technology",
+      "createdAt": 1731283200000,
+      "content": [
+        { "type": "paragraph", "text": "City planners use virtual replicas to simulate and optimize urban development projects." },
+        { "type": "quote", "text": "Digital twins allow us to test scenarios and prevent costly mistakes before construction begins." }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Precision agriculture boosts crop yields sustainably",
+      "author": "Carlos Mendez",
+      "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=800&h=400&fit=crop",
+      "description": "Farmers adopt sensor technology and data analytics to optimize resource usage.",
+      "category": "Agriculture",
+      "createdAt": 1731196800000,
+      "content": [
+        { "type": "paragraph", "text": "Farmers adopt sensor technology and data analytics to optimize resource usage." }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Battery recycling programs address electronic waste",
+      "author": "Laura Henderson",
+      "image": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800&h=400&fit=crop",
+      "description": "Companies develop circular economy solutions for lithium-ion battery disposal.",
+      "category": "Environment",
+      "createdAt": 1731110400000,
+      "content": [
+        { "type": "paragraph", "text": "Companies develop circular economy solutions for lithium-ion battery disposal." }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Augmented reality enhances retail shopping experience",
+      "author": "Sophie Martin",
+      "image": "https://images.unsplash.com/photo-1617802690992-15d93263d3a9?w=800&h=400&fit=crop",
+      "description": "Stores implement AR technology allowing customers to virtually try products before purchase.",
+      "category": "Retail",
+      "createdAt": 1731024000000,
+      "content": [
+        { "type": "paragraph", "text": "Stores implement AR technology allowing customers to virtually try products before purchase." },
+        { "type": "quote", "text": "Augmented reality bridges the gap between online convenience and in-store experience." }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Neuromorphic computing mimics human brain function",
+      "author": "Dr. Alan Brooks",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&h=400&fit=crop",
+      "description": "Researchers develop energy-efficient processors inspired by biological neural networks.",
+      "category": "Science",
+      "createdAt": 1730937600000,
+      "content": [
+        { "type": "paragraph", "text": "Researchers develop energy-efficient processors inspired by biological neural networks." }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Water conservation technologies combat scarcity",
+      "author": "Isabella Costa",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=400&fit=crop",
+      "description": "Innovations in desalination and purification address growing freshwater challenges.",
+      "category": "Environment",
+      "createdAt": 1730851200000,
+      "content": [
+        { "type": "paragraph", "text": "Innovations in desalination and purification address growing freshwater challenges." }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Edge computing reduces latency in IoT networks",
+      "author": "Nathan Price",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=400&fit=crop",
+      "description": "Processing data closer to devices improves speed and reliability of connected systems.",
+      "category": "Technology",
+      "createdAt": 1730764800000,
+      "content": [
+        { "type": "paragraph", "text": "Processing data closer to devices improves speed and reliability of connected systems." },
+        { "type": "quote", "text": "Edge computing is essential for real-time applications requiring immediate responses." }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Microplastic detection methods improve dramatically",
+      "author": "Dr. Claire Jensen",
+      "image": "https://images.unsplash.com/photo-1621451537084-482c73073a0f?w=800&h=400&fit=crop",
+      "description": "Scientists develop enhanced techniques to identify and measure plastic pollution in ecosystems.",
+      "category": "Environment",
+      "createdAt": 1730678400000,
+      "content": [
+        { "type": "paragraph", "text": "Scientists develop enhanced techniques to identify and measure plastic pollution in ecosystems." }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Voice AI assistants gain multilingual capabilities",
+      "author": "Yuki Tanaka",
+      "image": "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=800&h=400&fit=crop",
+      "description": "Natural language processing advances enable seamless communication across languages.",
+      "category": "Technology",
+      "createdAt": 1730592000000,
+      "content": [
+        { "type": "paragraph", "text": "Natural language processing advances enable seamless communication across languages." }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Carbon capture facilities scale up operations",
+      "author": "Gregory Williams",
+      "image": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?w=800&h=400&fit=crop",
+      "description": "Industrial plants begin removing significant amounts of CO2 from atmosphere.",
+      "category": "Environment",
+      "createdAt": 1730505600000,
+      "content": [
+        { "type": "paragraph", "text": "Industrial plants begin removing significant amounts of CO2 from atmosphere." },
+        { "type": "quote", "text": "Carbon capture technology is becoming viable at commercial scale, offering hope for climate goals." }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Synthetic biology creates sustainable materials",
+      "author": "Dr. Monica Patel",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&h=400&fit=crop",
+      "description": "Engineered organisms produce alternatives to petroleum-based plastics and textiles.",
+      "category": "Science",
+      "createdAt": 1730419200000,
+      "content": [
+        { "type": "paragraph", "text": "Engineered organisms produce alternatives to petroleum-based plastics and textiles." }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Digital identity systems enhance online security",
+      "author": "Patrick O'Brien",
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&h=400&fit=crop",
+      "description": "Governments and businesses implement advanced verification to combat fraud.",
+      "category": "Security",
+      "createdAt": 1730332800000,
+      "content": [
+        { "type": "paragraph", "text": "Governments and businesses implement advanced verification to combat fraud." }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Asteroid mining ventures attract investor interest",
+      "author": "Diana Kuznetsova",
+      "image": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=800&h=400&fit=crop",
+      "description": "Space startups plan missions to extract valuable minerals from near-Earth objects.",
+      "category": "Space",
+      "createdAt": 1730246400000,
+      "content": [
+        { "type": "paragraph", "text": "Space startups plan missions to extract valuable minerals from near-Earth objects." },
+        { "type": "quote", "text": "Asteroid mining could provide resources while reducing environmental impact on Earth." }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Bioprinting technology advances organ transplantation",
+      "author": "Dr. Hassan Ali",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&h=400&fit=crop",
+      "description": "Medical researchers make progress in creating functional tissues using 3D printers.",
+      "category": "Healthcare",
+      "createdAt": 1730160000000,
+      "content": [
+        { "type": "paragraph", "text": "Medical researchers make progress in creating functional tissues using 3D printers." }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Quantum encryption protects communication networks",
+      "author": "Dr. Mei Lin",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=400&fit=crop",
+      "description": "Organizations deploy quantum key distribution for unhackable data transmission.",
+      "category": "Security",
+      "createdAt": 1730073600000,
+      "content": [
+        { "type": "paragraph", "text": "Organizations deploy quantum key distribution for unhackable data transmission." }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Autonomous ships prepare for commercial deployment",
+      "author": "Captain Lars Hansen",
+      "image": "https://images.unsplash.com/photo-1605281317010-fe5ffe798166?w=800&h=400&fit=crop",
+      "description": "Maritime industry tests self-navigating vessels for cargo transport routes.",
+      "category": "Transportation",
+      "createdAt": 1729987200000,
+      "content": [
+        { "type": "paragraph", "text": "Maritime industry tests self-navigating vessels for cargo transport routes." },
+        { "type": "quote", "text": "Autonomous shipping promises greater efficiency and safety on the world's oceans." }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Regenerative agriculture practices spread to mainstream farming",
+      "author": "Anna Schmidt",
+      "image": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800&h=400&fit=crop",
+      "description": "Farmers adopt soil health techniques that sequester carbon while improving yields.",
+      "category": "Agriculture",
+      "createdAt": 1729900800000,
+      "content": [
+        { "type": "paragraph", "text": "Farmers adopt soil health techniques that sequester carbon while improving yields." }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Brain-computer interfaces enable direct neural control",
+      "author": "Dr. Marcus Thompson",
+      "image": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=800&h=400&fit=crop",
+      "description": "Neurotechnology allows patients to operate devices using thought alone.",
+      "category": "Science",
+      "createdAt": 1729814400000,
+      "content": [
+        { "type": "paragraph", "text": "Neurotechnology allows patients to operate devices using thought alone." },
+        { "type": "quote", "text": "Brain-computer interfaces represent a paradigm shift in human-machine interaction." }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Fusion energy breakthrough brings commercial viability closer",
+      "author": "Dr. Elizabeth Warner",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop",
+      "description": "Scientists achieve sustained fusion reaction with net positive energy output.",
+      "category": "Energy",
+      "createdAt": 1729728000000,
+      "content": [
+        { "type": "paragraph", "text": "Scientists achieve sustained fusion reaction with net positive energy output." },
+        { "type": "quote", "text": "This breakthrough demonstrates fusion power is no longer just theoretical." }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Vertical farming reaches price parity with traditional agriculture",
+      "author": "Juan Rodriguez",
+      "image": "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?w=800&h=400&fit=crop",
+      "description": "Indoor farming operations achieve cost competitiveness through automation advances.",
+      "category": "Agriculture",
+      "createdAt": 1729641600000,
+      "content": [
+        { "type": "paragraph", "text": "Indoor farming operations achieve cost competitiveness through automation advances." }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Holographic displays eliminate need for special glasses",
+      "author": "Kenji Watanabe",
+      "image": "https://images.unsplash.com/photo-1617802690992-15d93263d3a9?w=800&h=400&fit=crop",
+      "description": "New display technology creates three-dimensional images visible from any angle.",
+      "category": "Technology",
+      "createdAt": 1729555200000,
+      "content": [
+        { "type": "paragraph", "text": "New display technology creates three-dimensional images visible from any angle." }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Nanorobotics advance cancer treatment precision",
+      "author": "Dr. Priya Sharma",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&h=400&fit=crop",
+      "description": "Microscopic robots deliver targeted therapy directly to tumor cells.",
+      "category": "Healthcare",
+      "createdAt": 1729468800000,
+      "content": [
+        { "type": "paragraph", "text": "Microscopic robots deliver targeted therapy directly to tumor cells." },
+        { "type": "quote", "text": "Nanorobotics allows us to attack cancer while minimizing damage to healthy tissue." }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Atmospheric water harvesting provides drought relief",
+      "author": "Omar Hassan",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=400&fit=crop",
+      "description": "Innovative systems extract drinking water from air in arid regions.",
+      "category": "Environment",
+      "createdAt": 1729382400000,
+      "content": [
+        { "type": "paragraph", "text": "Innovative systems extract drinking water from air in arid regions." }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Self-healing concrete extends infrastructure lifespan",
+      "author": "Dr. Ingrid Mueller",
+      "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=800&h=400&fit=crop",
+      "description": "Building materials containing bacteria automatically repair cracks and damage.",
+      "category": "Technology",
+      "createdAt": 1729296000000,
+      "content": [
+        { "type": "paragraph", "text": "Building materials containing bacteria automatically repair cracks and damage." }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Deep sea mining faces environmental scrutiny",
+      "author": "Catherine Moore",
+      "image": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=800&h=400&fit=crop",
+      "description": "Companies seek underwater mineral deposits while conservationists raise concerns.",
+      "category": "Environment",
+      "createdAt": 1729209600000,
+      "content": [
+        { "type": "paragraph", "text": "Companies seek underwater mineral deposits while conservationists raise concerns." },
+        { "type": "quote", "text": "We must balance resource needs with protection of unexplored ocean ecosystems." }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Haptic feedback suits transform virtual experiences",
+      "author": "Ryan Kim",
+      "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=800&h=400&fit=crop",
+      "description": "Wearable technology provides realistic touch sensations in digital environments.",
+      "category": "Technology",
+      "createdAt": 1729123200000,
+      "content": [
+        { "type": "paragraph", "text": "Wearable technology provides realistic touch sensations in digital environments." }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Cultured meat receives regulatory approval in major markets",
+      "author": "Alexandra Petrov",
+      "image": "https://images.unsplash.com/photo-1585238341710-f8fc74c5eb35?w=800&h=400&fit=crop",
+      "description": "Lab-grown protein products clear final hurdles for commercial sale.",
+      "category": "Food",
+      "createdAt": 1729036800000,
+      "content": [
+        { "type": "paragraph", "text": "Lab-grown protein products clear final hurdles for commercial sale." }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Smart contact lenses monitor health metrics continuously",
+      "author": "Dr. James Park",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&h=400&fit=crop",
+      "description": "Medical devices embedded in lenses track glucose levels and other biomarkers.",
+      "category": "Healthcare",
+      "createdAt": 1728950400000,
+      "content": [
+        { "type": "paragraph", "text": "Medical devices embedded in lenses track glucose levels and other biomarkers." },
+        { "type": "quote", "text": "Smart lenses offer non-invasive monitoring that integrates seamlessly into daily life." }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Algae-based biofuels compete with fossil alternatives",
+      "author": "Dr. Fernando Silva",
+      "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=400&fit=crop",
+      "description": "Renewable fuel production from microorganisms reaches commercial scale.",
+      "category": "Energy",
+      "createdAt": 1728864000000,
+      "content": [
+        { "type": "paragraph", "text": "Renewable fuel production from microorganisms reaches commercial scale." }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Emotion recognition AI raises privacy debates",
+      "author": "Samantha Wells",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=400&fit=crop",
+      "description": "Software analyzes facial expressions and voice patterns to detect emotional states.",
+      "category": "Technology",
+      "createdAt": 1728777600000,
+      "content": [
+        { "type": "paragraph", "text": "Software analyzes facial expressions and voice patterns to detect emotional states." }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Lunar base construction begins with robotic crews",
+      "author": "Commander Sarah Mitchell",
+      "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=800&h=400&fit=crop",
+      "description": "Autonomous systems lay groundwork for permanent human presence on Moon.",
+      "category": "Space",
+      "createdAt": 1728691200000,
+      "content": [
+        { "type": "paragraph", "text": "Autonomous systems lay groundwork for permanent human presence on Moon." },
+        { "type": "quote", "text": "Robotic construction enables safer, faster development of lunar infrastructure." }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Transparent solar panels integrated into windows",
+      "author": "Dr. Linda Chen",
+      "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&h=400&fit=crop",
+      "description": "Buildings generate electricity while maintaining natural light transmission.",
+      "category": "Energy",
+      "createdAt": 1728604800000,
+      "content": [
+        { "type": "paragraph", "text": "Buildings generate electricity while maintaining natural light transmission." }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Wireless electricity transmission powers devices remotely",
+      "author": "Nikolai Volkov",
+      "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=800&h=400&fit=crop",
+      "description": "Long-range charging technology eliminates need for cables and batteries.",
+      "category": "Technology",
+      "createdAt": 1728518400000,
+      "content": [
+        { "type": "paragraph", "text": "Long-range charging technology eliminates need for cables and batteries." }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Ice sheet monitoring reveals accelerated melting",
+      "author": "Dr. Anna Eriksson",
+      "image": "https://images.unsplash.com/photo-1580245450433-bfdad20a7e7b?w=800&h=400&fit=crop",
+      "description": "Satellite data shows polar ice loss exceeding previous climate predictions.",
+      "category": "Environment",
+      "createdAt": 1728432000000,
+      "content": [
+        { "type": "paragraph", "text": "Satellite data shows polar ice loss exceeding previous climate predictions." },
+        { "type": "quote", "text": "The pace of change demands immediate action on climate mitigation strategies." }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Peer-to-peer energy trading networks expand",
+      "author": "Marcus Green",
+      "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=400&fit=crop",
+      "description": "Homeowners with solar panels sell excess electricity directly to neighbors.",
+      "category": "Energy",
+      "createdAt": 1728345600000,
+      "content": [
+        { "type": "paragraph", "text": "Homeowners with solar panels sell excess electricity directly to neighbors." }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Exoskeleton technology assists elderly mobility",
+      "author": "Dr. Yuki Tanaka",
+      "image": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=800&h=400&fit=crop",
+      "description": "Wearable robotic suits help seniors maintain independence and activity.",
+      "category": "Healthcare",
+      "createdAt": 1728259200000,
+      "content": [
+        { "type": "paragraph", "text": "Wearable robotic suits help seniors maintain independence and activity." }
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Bacteria-powered batteries offer sustainable energy storage",
+      "author": "Dr. Patricia Reynolds",
+      "image": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800&h=400&fit=crop",
+      "description": "Microorganisms generate electricity as they break down organic waste.",
+      "category": "Energy",
+      "createdAt": 1728172800000,
+      "content": [
+        { "type": "paragraph", "text": "Microorganisms generate electricity as they break down organic waste." },
+        { "type": "quote", "text": "Biological batteries turn pollution into power in a truly sustainable cycle." }
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Swarm robotics coordinate disaster response efforts",
+      "author": "Colonel David Martinez",
+      "image": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=800&h=400&fit=crop",
+      "description": "Teams of small robots work together to search collapsed structures.",
+      "category": "Technology",
+      "createdAt": 1728086400000,
+      "content": [
+        { "type": "paragraph", "text": "Teams of small robots work together to search collapsed structures." }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Protein folding AI accelerates drug discovery",
+      "author": "Dr. Rebecca Cohen",
+      "image": "https://images.unsplash.com/photo-1582719471137-c3967ffb1c42?w=800&h=400&fit=crop",
+      "description": "Machine learning predicts molecular structures in minutes instead of years.",
+      "category": "Healthcare",
+      "createdAt": 1728000000000,
+      "content": [
+        { "type": "paragraph", "text": "Machine learning predicts molecular structures in minutes instead of years." }
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Sand batteries store renewable energy efficiently",
+      "author": "Henrik Larsson",
+      "image": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800&h=400&fit=crop",
+      "description": "Thermal storage systems using heated sand provide grid stability.",
+      "category": "Energy",
+      "createdAt": 1727913600000,
+      "content": [
+        { "type": "paragraph", "text": "Thermal storage systems using heated sand provide grid stability." },
+        { "type": "quote", "text": "Sand batteries offer a low-cost, long-duration energy storage solution." }
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Autonomous drones deliver medical supplies to remote areas",
+      "author": "Dr. Amira Khan",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=400&fit=crop",
+      "description": "Flying vehicles transport vaccines and medications across difficult terrain.",
+      "category": "Healthcare",
+      "createdAt": 1727827200000,
+      "content": [
+        { "type": "paragraph", "text": "Flying vehicles transport vaccines and medications across difficult terrain." }
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Floating cities proposed as sea level adaptation",
+      "author": "Architect Marina Santos",
+      "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=800&h=400&fit=crop",
+      "description": "Designers unveil plans for ocean-based communities resistant to flooding.",
+      "category": "Architecture",
+      "createdAt": 1727740800000,
+      "content": [
+        { "type": "paragraph", "text": "Designers unveil plans for ocean-based communities resistant to flooding." }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Photosynthetic humans remain science fiction",
+      "author": "Dr. Malcolm Pierce",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&h=400&fit=crop",
+      "description": "Researchers explain why humans cannot produce energy from sunlight like plants.",
+      "category": "Science",
+      "createdAt": 1727654400000,
+      "content": [
+        { "type": "paragraph", "text": "Researchers explain why humans cannot produce energy from sunlight like plants." },
+        { "type": "quote", "text": "Fundamental biological differences make human photosynthesis impossible with current technology." }
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Underground farms utilize geothermal energy",
+      "author": "Klaus Bergman",
+      "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=800&h=400&fit=crop",
+      "description": "Subterranean agriculture leverages Earth's heat for year-round production.",
+      "category": "Agriculture",
+      "createdAt": 1727568000000,
+      "content": [
+        { "type": "paragraph", "text": "Subterranean agriculture leverages Earth's heat for year-round production." }
+      ]
+    },
+    {
+      "id": 77,
+      "title": "Satellite internet achieves global coverage",
+      "author": "Jennifer Walsh",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=400&fit=crop",
+      "description": "Orbital networks bring high-speed connectivity to every corner of planet.",
+      "category": "Technology",
+      "createdAt": 1727481600000,
+      "content": [
+        { "type": "paragraph", "text": "Orbital networks bring high-speed connectivity to every corner of planet." }
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Mycelium packaging replaces polystyrene foam",
+      "author": "Emma Richardson",
+      "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=800&h=400&fit=crop",
+      "description": "Mushroom-based materials offer biodegradable alternative to synthetic packaging.",
+      "category": "Environment",
+      "createdAt": 1727395200000,
+      "content": [
+        { "type": "paragraph", "text": "Mushroom-based materials offer biodegradable alternative to synthetic packaging." },
+        { "type": "quote", "text": "Mycelium grows into custom shapes and decomposes completely after use." }
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Memory implants help Alzheimer's patients",
+      "author": "Dr. Helen Crawford",
+      "image": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=800&h=400&fit=crop",
+      "description": "Neural devices restore ability to form new memories in clinical trials.",
+      "category": "Healthcare",
+      "createdAt": 1727308800000,
+      "content": [
+        { "type": "paragraph", "text": "Neural devices restore ability to form new memories in clinical trials." }
+      ]
+    },
+    {
+      "id": 80,
+      "title": "Tidal energy farms harness ocean power",
+      "author": "Captain Sean O'Brien",
+      "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&h=400&fit=crop",
+      "description": "Underwater turbines generate predictable renewable electricity from tides.",
+      "category": "Energy",
+      "createdAt": 1727222400000,
+      "content": [
+        { "type": "paragraph", "text": "Underwater turbines generate predictable renewable electricity from tides." }
+      ]
+    },
+    {
+      "id": 81,
+      "title": "Lab-grown diamonds disrupt jewelry industry",
+      "author": "Olivia Sterling",
+      "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&h=400&fit=crop",
+      "description": "Synthetic gems chemically identical to mined stones sell at fraction of cost.",
+      "category": "Business",
+      "createdAt": 1727136000000,
+      "content": [
+        { "type": "paragraph", "text": "Synthetic gems chemically identical to mined stones sell at fraction of cost." },
+        { "type": "quote", "text": "Consumers increasingly prefer ethical, sustainable lab-grown alternatives." }
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Cryogenic sleep trials begin for long space missions",
+      "author": "Dr. Alexei Sokolov",
+      "image": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=800&h=400&fit=crop",
+      "description": "Astronauts test hibernation techniques for multi-year interplanetary travel.",
+      "category": "Space",
+      "createdAt": 1727049600000,
+      "content": [
+        { "type": "paragraph", "text": "Astronauts test hibernation techniques for multi-year interplanetary travel." }
+      ]
+    },
+    {
+      "id": 83,
+      "title": "Acoustic levitation moves objects without contact",
+      "author": "Dr. Yuki Yamamoto",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=400&fit=crop",
+      "description": "Sound waves manipulate materials in manufacturing and research applications.",
+      "category": "Science",
+      "createdAt": 1726963200000,
+      "content": [
+        { "type": "paragraph", "text": "Sound waves manipulate materials in manufacturing and research applications." }
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Vertical forests purify urban air quality",
+      "author": "Stefano Rossi",
+      "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=800&h=400&fit=crop",
+      "description": "Tree-covered skyscrapers absorb pollution while providing housing.",
+      "category": "Architecture",
+      "createdAt": 1726876800000,
+      "content": [
+        { "type": "paragraph", "text": "Tree-covered skyscrapers absorb pollution while providing housing." },
+        { "type": "quote", "text": "Vertical forests bring nature into cities while fighting climate change." }
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Quantum sensors detect underground infrastructure",
+      "author": "Dr. Catherine Moore",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=400&fit=crop",
+      "description": "Extreme precision measurements map hidden pipes and cables.",
+      "category": "Technology",
+      "createdAt": 1726790400000,
+      "content": [
+        { "type": "paragraph", "text": "Extreme precision measurements map hidden pipes and cables." }
+      ]
+    },
+    {
+      "id": 86,
+      "title": "Bioelectronic medicine replaces pharmaceutical drugs",
+      "author": "Dr. Raj Patel",
+      "image": "https://images.unsplash.com/photo-1582719471137-c3967ffb1c42?w=800&h=400&fit=crop",
+      "description": "Electrical nerve stimulation treats conditions without chemical medications.",
+      "category": "Healthcare",
+      "createdAt": 1726704000000,
+      "content": [
+        { "type": "paragraph", "text": "Electrical nerve stimulation treats conditions without chemical medications." }
+      ]
+    },
+    {
+      "id": 87,
+      "title": "Shape-shifting materials adapt to environment",
+      "author": "Dr. Lisa Wang",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&h=400&fit=crop",
+      "description": "Smart substances change properties in response to temperature or light.",
+      "category": "Science",
+      "createdAt": 1726617600000,
+      "content": [
+        { "type": "paragraph", "text": "Smart substances change properties in response to temperature or light." },
+        { "type": "quote", "text": "Programmable materials open possibilities for self-repairing structures." }
+      ]
+    },
+    {
+      "id": 88,
+      "title": "Insect farming provides sustainable protein source",
+      "author": "Dr. Maria Gonzalez",
+      "image": "https://images.unsplash.com/photo-1585238341710-f8fc74c5eb35?w=800&h=400&fit=crop",
+      "description": "Cricket and mealworm production scales up for human consumption.",
+      "category": "Food",
+      "createdAt": 1726531200000,
+      "content": [
+        { "type": "paragraph", "text": "Cricket and mealworm production scales up for human consumption." }
+      ]
+    },
+    {
+      "id": 89,
+      "title": "Passive cooling systems reduce air conditioning needs",
+      "author": "Architect Zara Ali",
+      "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=800&h=400&fit=crop",
+      "description": "Building designs using natural ventilation cut energy consumption dramatically.",
+      "category": "Architecture",
+      "createdAt": 1726444800000,
+      "content": [
+        { "type": "paragraph", "text": "Building designs using natural ventilation cut energy consumption dramatically." }
+      ]
+    },
+    {
+      "id": 90,
+      "title": "Predictive policing algorithms face accuracy challenges",
+      "author": "Officer James Peterson",
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&h=400&fit=crop",
+      "description": "Law enforcement AI systems show bias in crime forecasting models.",
+      "category": "Security",
+      "createdAt": 1726358400000,
+      "content": [
+        { "type": "paragraph", "text": "Law enforcement AI systems show bias in crime forecasting models." },
+        { "type": "quote", "text": "We must ensure technology serves justice equally for all communities." }
+      ]
+    },
+    {
+      "id": 91,
+      "title": "Supersonic passenger flights return to commercial aviation",
+      "author": "Captain Michelle Laurent",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&h=400&fit=crop",
+      "description": "New aircraft design eliminates sonic boom allowing overland supersonic travel.",
+      "category": "Aviation",
+      "createdAt": 1726272000000,
+      "content": [
+        { "type": "paragraph", "text": "New aircraft design eliminates sonic boom allowing overland supersonic travel." }
+      ]
+    },
+    {
+      "id": 92,
+      "title": "Textile recycling technology closes fashion loop",
+      "author": "Hannah Chen",
+      "image": "https://images.unsplash.com/photo-1558769132-cb1aea3c0277?w=800&h=400&fit=crop",
+      "description": "Chemical process breaks down old clothes into raw materials for new fabrics.",
+      "category": "Fashion",
+      "createdAt": 1726185600000,
+      "content": [
+        { "type": "paragraph", "text": "Chemical process breaks down old clothes into raw materials for new fabrics." }
+      ]
+    },
+    {
+      "id": 93,
+      "title": "Volcanic energy tapped for clean electricity",
+      "author": "Dr. Sigrid Johannsson",
+      "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=400&fit=crop",
+      "description": "Geothermal plants harness magma heat in volcanic regions.",
+      "category": "Energy",
+      "createdAt": 1726099200000,
+      "content": [
+        { "type": "paragraph", "text": "Geothermal plants harness magma heat in volcanic regions." },
+        { "type": "quote", "text": "Volcanic energy provides constant, reliable baseload power." }
+      ]
+    },
+    {
+      "id": 94,
+      "title": "Origami robots fold themselves for medical procedures",
+      "author": "Dr. Kenji Sato",
+      "image": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=800&h=400&fit=crop",
+      "description": "Shape-changing devices navigate body through minimally invasive surgery.",
+      "category": "Healthcare",
+      "createdAt": 1726012800000,
+      "content": [
+        { "type": "paragraph", "text": "Shape-changing devices navigate body through minimally invasive surgery." }
+      ]
+    },
+    {
+      "id": 95,
+      "title": "Artificial photosynthesis converts CO2 to fuel",
+      "author": "Dr. Rachel Green",
+      "image": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?w=800&h=400&fit=crop",
+      "description": "Synthetic leaves mimic plants to produce clean energy from sunlight.",
+      "category": "Energy",
+      "createdAt": 1725926400000,
+      "content": [
+        { "type": "paragraph", "text": "Synthetic leaves mimic plants to produce clean energy from sunlight." }
+      ]
+    },
+    {
+      "id": 96,
+      "title": "Biometric payments eliminate need for cards",
+      "author": "Derek Thompson",
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&h=400&fit=crop",
+      "description": "Facial recognition and fingerprints enable secure contactless transactions.",
+      "category": "Finance",
+      "createdAt": 1725840000000,
+      "content": [
+        { "type": "paragraph", "text": "Facial recognition and fingerprints enable secure contactless transactions." },
+        { "type": "quote", "text": "Biometric payments offer convenience while reducing fraud risks." }
+      ]
+    },
+    {
+      "id": 97,
+      "title": "Space-based solar power stations proposed",
+      "author": "Dr. Angela Torres",
+      "image": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=800&h=400&fit=crop",
+      "description": "Orbital collectors beam energy to Earth via microwave transmission.",
+      "category": "Space",
+      "createdAt": 1725753600000,
+      "content": [
+        { "type": "paragraph", "text": "Orbital collectors beam energy to Earth via microwave transmission." }
+      ]
+    },
+    {
+      "id": 98,
+      "title": "Smart bandages monitor wound healing progress",
+      "author": "Dr. Susan Miller",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&h=400&fit=crop",
+      "description": "Sensor-equipped dressings detect infection and adjust treatment automatically.",
+      "category": "Healthcare",
+      "createdAt": 1725667200000,
+      "content": [
+        { "type": "paragraph", "text": "Sensor-equipped dressings detect infection and adjust treatment automatically." }
+      ]
+    },
+    {
+      "id": 99,
+      "title": "Modular smartphones reduce electronic waste",
+      "author": "Leo Anderson",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=400&fit=crop",
+      "description": "Upgradeable phone components extend device lifespan and cut landfill burden.",
+      "category": "Technology",
+      "createdAt": 1725580800000,
+      "content": [
+        { "type": "paragraph", "text": "Upgradeable phone components extend device lifespan and cut landfill burden." },
+        { "type": "quote", "text": "Modular design empowers users to repair and upgrade rather than replace." }
+      ]
+    },
+    {
+      "id": 100,
+      "title": "Earthquake prediction AI shows promising results",
+      "author": "Dr. Tomoko Nakamura",
+      "image": "https://images.unsplash.com/photo-1580245450433-bfdad20a7e7b?w=800&h=400&fit=crop",
+      "description": "Machine learning identifies seismic patterns preceding major tremors.",
+      "category": "Science",
+      "createdAt": 1725494400000,
+      "content": [
+        { "type": "paragraph", "text": "Machine learning identifies seismic patterns preceding major tremors." }
+      ]
+    }
+  ]
+}

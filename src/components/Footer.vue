@@ -11,11 +11,11 @@ import PhoneIcon from '@/assets/icons/phone-icon.svg?component';
 
       <div class="contacts">
         <a href="mailto:info@test.com">
-          <component :is="EmailIcon" />
+          <EmailIcon />
           <span>info@test.com</span>
         </a>
         <a href="tel:+380953908751">
-          <component :is="PhoneIcon" />
+          <PhoneIcon />
           <span>+380 95 390 87 51</span>
         </a>
       </div>
