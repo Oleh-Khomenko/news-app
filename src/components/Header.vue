@@ -5,7 +5,9 @@
 <template>
   <header>
     <div class="header-content">
-      <img src="/img/logo.webp" alt="Test logo" :width="120" :height="32" />
+      <RouterLink class="link" to="/">
+        <img src="/img/logo.webp" alt="Test logo" :width="120" :height="32" />
+      </RouterLink>
 
       <div class="user">
         <p>Ronnie Radke</p>
@@ -23,6 +25,10 @@
 
 header {
   box-shadow: 0 4px 10px 0 colors.$color-shadow;
+
+  .link {
+    display: flex;
+  }
 
   div.header-content {
     display: flex;

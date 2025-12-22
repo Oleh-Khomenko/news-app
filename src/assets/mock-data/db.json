@@ -10,9 +10,14 @@
       "createdAt": 1734048000000,
       "content": [
         { "type": "paragraph", "text": "Consumers are delaying electric vehicle purchases as charging availability and rising costs continue to raise concerns, despite strong long-term market forecasts." },
-        { "type": "paragraph", "text": "Electric vehicle (EV) sales have shown signs of slowing in several key markets, highlighting growing consumer hesitation around charging infrastructure and overall ownership costs." },
+        { "type": "paragraph", "text": "Electric vehicle (EV) sales have shown signs of slowing in several key markets, highlighting growing consumer hesitation around charging infrastructure and overall ownership costs. While demand for electric cars remains significantly higher than just a few years ago, recent data suggests that adoption is no longer accelerating at the pace many manufacturers had anticipated." },
+        { "type": "paragraph", "text": "One of the primary challenges remains the limited availability of reliable public charging stations. In urban areas, drivers often face long wait times, while in rural regions charging networks are still sparse or nonexistent. This lack of consistency has made potential buyers more cautious, particularly those who rely on long-distance travel or do not have access to home charging." },
+        { "type": "paragraph", "text": "Cost concerns are also playing a major role. Although battery prices have gradually decreased, electric vehicles often still carry higher upfront costs compared to traditional combustion-engine cars. In addition, rising electricity prices in some regions have reduced the perceived savings of switching to electric." },
         { "type": "quote", "text": "Range anxiety is no longer the only issue — convenience and cost predictability are becoming equally important for consumers, said an industry analyst." },
-        { "type": "paragraph", "text": "Cost concerns are also playing a major role. Although battery prices have gradually decreased, electric vehicles often still carry higher upfront costs compared to traditional combustion engine cars." }
+        { "type": "image", "url": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1200&h=600&fit=crop", "alt": "Modern electric vehicle charging station" },
+        { "type": "paragraph", "text": "Automakers and governments continue to invest heavily in expanding charging infrastructure, with new fast-charging networks and incentives planned for the coming years. Several manufacturers have also announced more affordable models aimed at first-time EV buyers." },
+        { "type": "paragraph", "text": "Despite the current slowdown, experts remain optimistic about the long-term outlook for electric vehicles. Stricter emissions regulations, technological advancements, and ongoing infrastructure development are expected to support renewed growth in the market over the next decade." },
+        { "type": "paragraph", "text": "For now, however, the pace of adoption appears to be entering a more cautious phase, as consumers weigh environmental benefits against practical, everyday considerations." }
       ]
     },
     {

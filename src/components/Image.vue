@@ -10,6 +10,7 @@ interface Props {
   alt: string;
   height?: string;
   borderRadius?: string;
+  scaleAnimation?: boolean;
 }
 
 // props
@@ -34,7 +35,7 @@ const onError = () => {
 </script>
 
 <template>
-  <div class="image-wrapper" :style="{ borderRadius: props.borderRadius }">
+  <div class="image-wrapper" :style="{ borderRadius: props.borderRadius }" :class="{ animated: scaleAnimation }">
     <Skeleton
       v-if="isLoading && !hasError"
       :height="props.height"
@@ -68,7 +69,7 @@ const onError = () => {
   width: 100%;
   overflow: hidden;
 
-  &:hover > img {
+  &.animated:hover > img {
     transform: scale(1.1);
   }
 

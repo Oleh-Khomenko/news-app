@@ -39,7 +39,7 @@ const NewsApi = {
       throw new Error(`Failed to fetch news with id ${id}`);
     }
 
-    await sleep(150);
+    await sleep(1000);
     return response.json();
   }
 }

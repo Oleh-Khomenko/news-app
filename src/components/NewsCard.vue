@@ -1,12 +1,7 @@
 <script setup lang="ts">
-import { computed } from 'vue';
-import dayjs from 'dayjs';
-
-// assets
-import CalendarIcon from '@/assets/icons/calendar-icon.svg?component';
-
 // components
 import Image from '@/components/Image.vue';
+import NewsMetadata from '@/components/NewsMetadata.vue';
 
 // models
 import type { NewsPreview } from '@/shared/models/news-details.ts';
@@ -17,16 +12,13 @@ interface Props {
 }
 
 // props
-const props = defineProps<Props>();
-
-// computed
-const formattedDate = computed(() => dayjs(props.data.createdAt).format('DD.MM.YYYY'));
+defineProps<Props>();
 </script>
 
 <template>
   <article class="news-card-wrapper">
     <RouterLink class="link" :to="`/news/${data.id}`">
-      <Image :src="data.image" :alt="data.title" height="15rem" border-radius="0.5rem" />
+      <Image scale-animation height="15rem" border-radius="0.5rem" :src="data.image" :alt="data.title" />
     </RouterLink>
 
     <div class="content">
@@ -34,12 +26,7 @@ const formattedDate = computed(() => dayjs(props.data.createdAt).format('DD.MM.Y
         <h2>{{ data.title }}</h2>
       </RouterLink>
       <p class="description">{{ data.description }}</p>
-      <p class="date">
-        <CalendarIcon />
-        <span>{{ formattedDate }}</span>
-        <span class="delimiter" />
-        <span>written by {{ data.author }}</span>
-      </p>
+      <NewsMetadata :created-at="data.createdAt" :author="data.author" />
     </div>
   </article>
 </template>
@@ -72,21 +59,6 @@ article.news-card-wrapper {
 
     p.description {
       @include typography.main-text-regular;
-    }
-
-    p.date {
-      @include typography.small-text-regular;
-
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      color: colors.$color-light-gray-200;
-
-      span.delimiter {
-        width: 1px;
-        height: 0.75rem;
-        background: colors.$color-light-gray-200;
-      }
     }
   }
 }
