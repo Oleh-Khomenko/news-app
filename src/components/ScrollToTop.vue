@@ -39,6 +39,7 @@ onUnmounted(() => {
 
 <style scoped lang="scss">
 @use '@/assets/styles/colors';
+@use '@/assets/styles/mixins';
 
 .scroll-to-top {
   position: fixed;
@@ -60,6 +61,20 @@ onUnmounted(() => {
   transition: transform 0.3s ease-in-out;
 
   cursor: pointer;
+
+  @include mixins.for-md-width {
+    bottom: 1.5rem;
+    right: 1.5rem;
+    width: 2.75rem;
+    height: 2.75rem;
+  }
+
+  @include mixins.for-sm-width {
+    bottom: 1rem;
+    right: 1rem;
+    width: 2.5rem;
+    height: 2.5rem;
+  }
 
   &:hover {
     transform: scale(1.1);

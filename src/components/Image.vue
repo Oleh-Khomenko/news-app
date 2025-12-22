@@ -34,19 +34,15 @@ const onError = () => {
 </script>
 
 <template>
-  <div class="image-wrapper">
+  <div class="image-wrapper" :style="{ borderRadius: props.borderRadius }">
     <Skeleton
       v-if="isLoading && !hasError"
       :height="props.height"
-      :border-radius="props.borderRadius"
     />
     <div
       v-else-if="hasError"
       class="image-error"
-      :style="{
-        height: props.height,
-        borderRadius: props.borderRadius,
-      }"
+      :style="{ height: props.height }"
     >
       No image available
     </div>
@@ -70,11 +66,18 @@ const onError = () => {
 
 .image-wrapper {
   width: 100%;
+  overflow: hidden;
+
+  &:hover > img {
+    transform: scale(1.1);
+  }
 
   img {
     display: block;
     width: 100%;
     object-fit: cover;
+
+    transition: transform 0.3s ease-in-out;
   }
 
   .image-error {

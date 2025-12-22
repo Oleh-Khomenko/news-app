@@ -60,15 +60,37 @@ onMounted(() => {
 </template>
 
 <style scoped lang="scss">
+@use '@/assets/styles/mixins';
+
 .news-list {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   column-gap: 1.875rem;
   row-gap: 2.5rem;
+
+  @include mixins.for-lg-width {
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 1.5rem;
+    row-gap: 2rem;
+  }
+
+  @include mixins.for-md-width {
+    grid-template-columns: 1fr;
+    column-gap: 1rem;
+    row-gap: 1.5rem;
+  }
 }
 
 .load-more-trigger {
   height: 1px;
   margin-top: 2.5rem;
+
+  @include mixins.for-lg-width {
+    margin-top: 2rem;
+  }
+
+  @include mixins.for-md-width {
+    margin-top: 1.5rem;
+  }
 }
 </style>

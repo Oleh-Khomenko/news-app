@@ -27,6 +27,7 @@ import PhoneIcon from '@/assets/icons/phone-icon.svg?component';
 @use '@/assets/styles/variables';
 @use '@/assets/styles/typography';
 @use '@/assets/styles/colors';
+@use '@/assets/styles/mixins';
 
 footer {
   box-shadow: 0 -4px 10px 0 colors.$color-shadow;
@@ -41,6 +42,16 @@ footer {
     margin: 0 auto;
     padding: 1.375rem 2rem;
 
+    @include mixins.for-md-width {
+      flex-direction: column-reverse;
+      gap: 1rem;
+      padding: 1rem 1.5rem;
+    }
+
+    @include mixins.for-sm-width {
+      padding: 0.875rem 1rem;
+    }
+
     p.copyright {
       @include typography.small-text-regular;
     }
@@ -51,6 +62,11 @@ footer {
       display: flex;
       align-items: center;
       gap: 1.5rem;
+
+      @include mixins.for-sm-width {
+        flex-direction: column;
+        gap: 0.75rem;
+      }
 
       a {
         display: flex;
