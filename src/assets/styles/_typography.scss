@@ -1,0 +1,65 @@
+@use 'variables';
+@use 'placeholders';
+
+// headlines
+@mixin h1 {
+  font-family: variables.$font-headline;
+  font-size: 1.75rem; // 28px
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0;
+  font-display: swap;
+}
+
+@mixin h2 {
+  font-family: variables.$font-headline;
+  font-size: 1.375rem; // 22px
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0;
+  font-display: swap;
+}
+
+// content
+@mixin main-text-bold {
+  font-family: variables.$font-content;
+  font-size: 1rem; // 16px
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0;
+  font-display: swap;
+}
+
+@mixin main-text-regular {
+  font-family: variables.$font-content;
+  font-size: 1rem; // 16px
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0;
+  font-display: swap;
+}
+
+@mixin small-text-regular {
+  font-family: variables.$font-content;
+  font-size: 0.875rem; // 14px
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0;
+  font-display: swap;
+}
+
+
+@mixin subtext-regular {
+  font-family: variables.$font-content;
+  font-size: 0.75rem; // 12px
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0;
+  font-display: swap;
+}

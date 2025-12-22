@@ -1,0 +1,132 @@
+@use 'variables';
+
+/* LAYOUT */
+
+// xs
+@mixin from-xs-width {
+  @media (min-width: variables.$xs-breakpoint) {
+    @content;
+  }
+}
+
+@mixin for-xs-width {
+  @media (max-width: variables.$xs-breakpoint) {
+    @content;
+  }
+}
+
+// sm
+@mixin from-sm-width {
+  @media (min-width: variables.$sm-breakpoint) {
+    @content;
+  }
+}
+
+@mixin for-sm-width {
+  @media (max-width: variables.$sm-breakpoint) {
+    @content;
+  }
+}
+
+// md
+@mixin from-md-width {
+  @media (min-width: variables.$md-breakpoint) {
+    @content;
+  }
+}
+
+@mixin for-md-width {
+  @media (max-width: variables.$md-breakpoint) {
+    @content;
+  }
+}
+
+// lg
+@mixin from-lg-width {
+  @media (min-width: variables.$lg-breakpoint) {
+    @content;
+  }
+}
+
+@mixin for-lg-width {
+  @media (max-width: variables.$lg-breakpoint) {
+    @content;
+  }
+}
+
+// xl
+@mixin from-xl-width {
+  @media (min-width: variables.$xl-breakpoint) {
+    @content;
+  }
+}
+
+@mixin for-xl-width {
+  @media (max-width: variables.$xl-breakpoint) {
+    @content;
+  }
+}
+
+// xxl
+@mixin from-xxl-width {
+  @media (min-width: variables.$xxl-breakpoint) {
+    @content;
+  }
+}
+
+@mixin for-xxl-width {
+  @media (max-width: variables.$xxl-breakpoint) {
+    @content;
+  }
+}
+
+// COMPONENTS
+@mixin custom-scrollbar($thumb, $track: transparent, $border-radius: 0) {
+  scrollbar-width: thin;
+  scrollbar-color: $thumb $track;
+
+  &::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background-color: $track;
+    border-radius: $border-radius;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: $thumb;
+    border-radius: $border-radius;
+  }
+}
+
+@mixin hide-scrollbar {
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    display: none;
+  }
+}
+
+@mixin remove-select {
+  -webkit-touch-callout: none;
+  user-select: none;
+}
+
+@mixin multiline-truncate($lines: 1) {
+  display: -webkit-box;
+  max-width: 100%;
+  -webkit-line-clamp: $lines;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+@mixin truncate($max-width: 5rem) {
+  max-width: $max-width;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

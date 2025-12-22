@@ -1,0 +1,27 @@
+// ANIMATION
+
+// COMMON PLACEHOLDER
+@mixin placeholder-animate-pulse(
+  $width: 6rem,
+  $height: 1rem,
+  $radius: 0.5rem,
+  $animation-color: #D5D5D5,
+  $animation-duration: 2s
+) {
+  width: $width;
+  height: $height;
+  background-color: $animation-color;
+  border-radius: $radius;
+}
+
+@mixin placeholder-block(
+  $width: 6rem,
+  $height: 1rem,
+  $radius: 0,
+  $animation-color: #D5D5D5,
+  $name: 'placeholder'
+) {
+  &.#{$name} {
+    @include placeholder-animate-pulse($width, $height, $radius, $animation-color);
+  }
+}

@@ -1,0 +1,44 @@
+@use 'variables';
+@use 'colors';
+@use 'mixins';
+
+html {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-optical-sizing: auto;
+
+  overflow: hidden;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  font-family: variables.$font-content;
+
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+body {
+  overflow: auto;
+  color: colors.$color-black;
+  background: colors.$color-white;
+
+  // @include mixins.hide-scrollbar;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  min-height: 100%;
+}
+
+.icon {
+  display: flex;
+}

@@ -1,11 +1,21 @@
-<template>
-  <h1>You did it!</h1>
-  <p>
-    This is a Vue.js application boilerplate.
-  </p>
-</template>
-
 <script setup lang="ts">
+// components
+import Header from '@/components/Header.vue';
+import Footer from '@/components/Footer.vue';
 </script>
 
-<style scoped></style>
+<template>
+  <Header />
+
+  <main>
+    <router-view />
+  </main>
+
+  <Footer />
+</template>
+
+<style scoped>
+main {
+  flex: 1;
+}
+</style>

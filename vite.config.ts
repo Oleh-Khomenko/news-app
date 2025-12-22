@@ -6,9 +6,11 @@ import checkerPlugin from 'vite-plugin-checker';
 // @ts-ignore
 import eslintPlugin from 'vite-plugin-eslint';
 import stylelint from 'vite-plugin-stylelint';
+import svgLoader from 'vite-svg-loader';
 
 const plugins = [
   vue(),
+  svgLoader(),
   eslintPlugin({ failOnWarning: true }),
   checkerPlugin({
     typescript: true,
@@ -16,7 +18,7 @@ const plugins = [
   }),
   stylelint({
     emitError: true,
-    fix: true,
+    fix: false,
     cache: true,
     include: 'src/**/*.{vue,css,scss}',
     lintInWorker: true,

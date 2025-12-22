@@ -26,6 +26,12 @@ module.exports = {
      */
     'media-query-no-invalid': null,
     'custom-property-pattern': null,
+    'rule-empty-line-before': null,
+    'declaration-empty-line-before': null,
+    'at-rule-empty-line-before': null,
+    'comment-empty-line-before': null,
+    'scss/dollar-variable-empty-line-before': null,
+    'scss/double-slash-comment-empty-line-before': null,
     'media-feature-range-notation': 'prefix',
     'scss/at-mixin-pattern': null,
     'keyframes-name-pattern': null,
