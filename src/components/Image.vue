@@ -87,8 +87,8 @@ const onError = () => {
     @include typography.main-text-regular;
 
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
 
     width: 100%;
     color: colors.$color-light-gray-200;

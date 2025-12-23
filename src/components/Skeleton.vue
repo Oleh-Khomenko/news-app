@@ -38,6 +38,7 @@ const getBorderRadius = () => {
 @use '@/assets/styles/colors';
 
 .skeleton {
+  /* stylelint-disable-next-line declaration-property-value-no-unknown */
   background: linear-gradient(
     90deg,
     colors.$color-light-gray-100 0%,
