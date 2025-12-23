@@ -11,12 +11,14 @@ interface Props {
   height?: string;
   borderRadius?: string;
   scaleAnimation?: boolean;
+  priority?: boolean;
 }
 
 // props
 const props = withDefaults(defineProps<Props>(), {
   height: '15rem',
   borderRadius: '0.5rem',
+  priority: false,
 });
 
 // refs

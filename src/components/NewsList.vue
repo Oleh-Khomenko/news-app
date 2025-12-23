@@ -9,17 +9,18 @@ import NewsCard from '@/components/NewsCard.vue';
 import NewsCardSkeleton from '@/components/NewsCardSkeleton.vue';
 
 // common
+let observer: IntersectionObserver | null = null;
 const { data, fetchNextPage, hasNextPage, isFetchingNextPage, isLoading } = useInfiniteNews();
-
-// computed
-const items = computed(() => data.value?.pages.flatMap((page) => page.data) || []);
 
 // refs
 const loadMoreTrigger = ref<HTMLElement | null>(null);
 
-// lifecycle
+// computed
+const items = computed(() => data.value?.pages.flatMap((page) => page.data) || []);
+
+// lifecycle hooks
 onMounted(() => {
-  const observer = new IntersectionObserver(
+  observer = new IntersectionObserver(
     (entries) => {
       const entry = entries[0];
       if (entry && entry.isIntersecting && hasNextPage.value && !isFetchingNextPage.value) {
@@ -28,16 +29,18 @@ onMounted(() => {
     },
     {
       rootMargin: '100px',
-    }
+    },
   );
 
   if (loadMoreTrigger.value) {
     observer.observe(loadMoreTrigger.value);
   }
+});
 
-  onUnmounted(() => {
+onUnmounted(() => {
+  if (observer) {
     observer.disconnect();
-  });
+  }
 });
 </script>
 

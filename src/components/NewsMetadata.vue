@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed } from 'vue';
-import dayjs from 'dayjs';
+import dayjs from 'dayjs/esm';
 
 // assets
 import CalendarIcon from '@/assets/icons/calendar-icon.svg?component';

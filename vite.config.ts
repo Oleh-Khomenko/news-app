@@ -7,6 +7,7 @@ import checkerPlugin from 'vite-plugin-checker';
 import eslintPlugin from 'vite-plugin-eslint';
 import stylelint from 'vite-plugin-stylelint';
 import svgLoader from 'vite-svg-loader';
+import { visualizer } from 'rollup-plugin-visualizer';
 
 const plugins = [
   vue(),
@@ -23,12 +24,25 @@ const plugins = [
     include: 'src/**/*.{vue,css,scss}',
     lintInWorker: true,
   }),
+  visualizer({
+    filename: 'dist/stats.html',
+    gzipSize: true,
+    brotliSize: true,
+  }),
 ];
 
 // https://vite.dev/config/
 export default defineConfig({
   build: {
     minify: 'esbuild',
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          'vue-vendor': ['vue', 'vue-router'],
+          'query-vendor': ['@tanstack/vue-query'],
+        },
+      },
+    },
   },
   plugins,
   resolve: {

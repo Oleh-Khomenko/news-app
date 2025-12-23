@@ -9,6 +9,7 @@ import type { NewsPreview } from '@/shared/models/news-details.ts';
 // custom models
 interface Props {
   data: NewsPreview,
+  priority?: boolean,
 }
 
 // props
@@ -18,7 +19,7 @@ defineProps<Props>();
 <template>
   <article class="news-card-wrapper">
     <RouterLink class="link" :to="`/news/${data.id}`">
-      <Image scale-animation height="15rem" border-radius="0.5rem" :src="data.image" :alt="data.title" />
+      <Image scale-animation height="15rem" border-radius="0.5rem" :src="data.image" :alt="data.title" :priority="priority" />
     </RouterLink>
 
     <div class="content">

@@ -43,10 +43,11 @@ const { data: news, isLoading } = useNewsDetails(newsId.value);
     <div v-else-if="news" class="content">
       <!-- Banner -->
       <Image
-        :src="news.image"
-        :alt="news.title"
+        priority
         height="25rem"
         border-radius="0.5rem"
+        :src="news.image"
+        :alt="news.title"
       />
 
       <!-- Title -->
